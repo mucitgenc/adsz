@@ -1,0 +1,22 @@
+{
+    "name": "Adsız",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "vl53l0x-distance": "github:tinkertanker/pxt-range-vl53l0x#220a5ff77963d636d9b880682f19d25c44065fa7",
+        "pxt-hardwario": "github:hardwario/pxt-microbit-hardwario#0.6.0",
+        "esp8266": "github:mucitgenc/pxt-iot#d9f1fe61bfe5089ac681feb64ca9be7ad1487822"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
